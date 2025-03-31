@@ -90,5 +90,5 @@ piece.place(x=50, y=50)
 piece.bind("<Button-1>", PuzzlePieces.drag_start)
 piece.bind("<B1-Motion>", PuzzlePieces.drag_motion)
 
-# Start the Tkinter main loop
+#start
 root.mainloop()
