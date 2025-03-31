@@ -77,7 +77,7 @@ def clear_rows_and_columns():
             for row in game_board.board:
                 row[j] = 0  # Clear the column
 
-# Initialize Tkinter and Create Gui
+
 root = tk.Tk()
 root.title("Black")
 
