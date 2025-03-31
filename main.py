@@ -1,6 +1,6 @@
 import tkinter as tk
 
-# PuzzlePieces Class for Shapes and Drag-and-Drop Logic
+# PuzzlePieces Class for Shapes and Drag-and-Drop 
 class PuzzlePieces:
     @staticmethod
     def get_pieces():
